@@ -9,14 +9,14 @@ A sleek, user-friendly weather app built using HTML, CSS, and JavaScript, that f
 5. Minimalistic and responsive UI
 
 🛠️ Tech Stack:
-1.HTML5
-2.CSS3
-3.JavaScript (ES6)
-4.OpenWeatherMap API
+1. HTML5
+2. CSS3
+3. JavaScript (ES6)
+4. OpenWeatherMap API
 
 ⚙️ How It Works
-1.User enters a city name in the input box.
-2.On clicking the search icon, the app makes an API call to OpenWeatherMap.
+1. User enters a city name in the input box.
+2. On clicking the search icon, the app makes an API call to OpenWeatherMap.
 
 3.Weather data like:
    Temperature (in °C)
